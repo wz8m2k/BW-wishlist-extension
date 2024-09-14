@@ -17,7 +17,7 @@
 3. 進入擴充功能頁面後，點選右上角的「開發人員模式」，進入開發人員模式
    ![image](https://github.com/user-attachments/assets/67d9e86d-7dd0-42f1-87ec-5e3e02ebabd5)
 4. 點選頁面中的「載入未封裝項目」
-   ![image](https://github.com/user-attachments/assets/2e82451a-6875-4b76-b02e-8eba8fc33410)
+   ![image](https://github.com/user-attachments/assets/ee5ab7e8-8d68-445d-ba0c-04beffa2c417)
 5. 選擇此程式的資料夾
    <img width="960" alt="image" src="https://github.com/user-attachments/assets/5f132ee9-ea79-4681-8255-de5cbd4c4da9">
 6. 完成新增擴充功能
