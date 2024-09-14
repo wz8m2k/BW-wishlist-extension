@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sorts wishlist by discount</title>
+  <meta charset="UTF-8">
+  <style>
+    /* 這裡可以放置一些樣式 */
+    body {
+      width: 300px;
+      height: 400px;
+      font-family: Arial, sans-serif;
+    }
+    h2 {
+      margin-left: 10px; /* 將標題稍微往右移動 */
+    }
+    #tabs {
+      display: flex;
+      justify-content: space-around;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+    .tab {
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+    .active {
+      background-color: #f0f0f0;
+    }
+    #results {
+      overflow-y: auto;
+      height: 100%;
+      /* padding: 10px; */
+      margin-left: 10px; /* 添加左邊距 */
+    }
+    #results div {
+      margin-bottom: 10px; /* 縮小同組項目之間的間距 */
+    }
+    #results h3 {
+      margin: 0 0 5px 0; /* 縮小 h3 與 p 之間的間距 */
+      padding: 0;
+    }
+    #results p {
+      margin: 0 0 5px 0; /* 縮小 p 與 p 之間的間距 */
+      padding: 0;
+    }
+    /* h2 {
+      margin: 0;
+      padding: 0px;
+      font-size: 16px;
+    } */
+    /* h3 {
+      padding: 5px;
+    }
+    p {
+      padding: 5px;
+    } */
+    /* #results {
+      margin: 0;
+      padding: 10px;
+    } */
+  </style>
+</head>
+<body>
+  <!-- <h1>由折數多到少排列願望清單</h1> -->
+  <h2>重新排列願望清單：</h2>
+  <div id="tabs">
+    <div id="sort-original" class="tab">按原始順序</div>
+    <div id="sort-discount" class="tab active">按折扣排序</div>
+  </div>
+  <div id="results">Loading...</div>
+  <script src="popup.js"></script>
+</body>
+</html>
