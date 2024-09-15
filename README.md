@@ -38,7 +38,7 @@
 
 ## English Description
 
-This program is a Chrome extension designed for the wishlist page on [BookWalker TW](https://tw.bookwalker.com/), and it was generated using ChatGPT.
+This program is a Chrome extension designed for the wishlist page on [BookWalker TW](https://www.bookwalker.com.tw/), and it was generated using ChatGPT.
 
 ### Features
 - The extension works on the wishlist page of BookWalker TW.
@@ -46,6 +46,6 @@ This program is a Chrome extension designed for the wishlist page on [BookWalker
 - Users can choose to sort the wishlist based on discount levels or view it in the original order.
 
 ### Usage Instructions
-1. After installing this Chrome extension, go to the wishlist page on [BookWalker TW](https://tw.bookwalker.com/).
+1. After installing this Chrome extension, go to the wishlist page on [BookWalker TW](https://www.bookwalker.com.tw/).
 2. Click the extension icon to open a popup displaying the items in your wishlist.
 3. Users can switch between "Sort by Original Order" and "Sort by Discount" to view the items sorted accordingly.
