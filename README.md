@@ -32,6 +32,7 @@
    ![image](https://github.com/user-attachments/assets/529509e3-c7d9-4b76-a3ec-a571a6fcef46)
 3. 使用者可以在「按原始順序」與「按折扣排序」之間進行切換，來查看商品的折扣排序結果。
    ![image](https://github.com/user-attachments/assets/72120a4c-e90a-41d7-ad4c-c5ba12ca2f44)
+4. 搭配願望清單原有的排序與篩選功能可以更方便的使用！
 
 ### 關於聯絡
 可以新增Issue向我提出疑問或建議。
