@@ -11,22 +11,28 @@
   
 ### 使用說明
 #### 如何安裝此擴充功能
-1. 下載此程式，並記住下載位置
-2. 在Chrome頁面中點選「擴充功能」→「管理擴充功能」
+1. 下載此程式壓縮檔，解壓縮，並記住位置
+   ![image](https://github.com/user-attachments/assets/11fbb35d-3ad8-4757-a14b-3a2e88faeff7)
+3. 在Chrome頁面中點選「擴充功能」→「管理擴充功能」
    <img width="960" alt="image" src="https://github.com/user-attachments/assets/ecccce6a-52ea-4b03-a99f-722bb8a3f92f">
-3. 進入擴充功能頁面後，點選右上角的「開發人員模式」，進入開發人員模式
+4. 進入擴充功能頁面後，點選右上角的「開發人員模式」，進入開發人員模式
    ![image](https://github.com/user-attachments/assets/67d9e86d-7dd0-42f1-87ec-5e3e02ebabd5)
-4. 點選頁面中的「載入未封裝項目」
+5. 點選頁面中的「載入未封裝項目」
    ![image](https://github.com/user-attachments/assets/ee5ab7e8-8d68-445d-ba0c-04beffa2c417)
-5. 選擇此程式的資料夾
+6. 選擇此程式的資料夾
    <img width="960" alt="image" src="https://github.com/user-attachments/assets/5f132ee9-ea79-4681-8255-de5cbd4c4da9">
-6. 完成新增擴充功能
-   ![image](https://github.com/user-attachments/assets/dae07b8a-4be3-4288-add6-1115f3655b20)
+7. 完成新增擴充功能
+   <img width="960" alt="image" src="https://github.com/user-attachments/assets/e01c8930-500a-4d54-befc-ff2b0117b138">
+
 
 #### 如何使用此擴充功能
 1. 安裝此 Chrome 擴充功能後，進入BookWalker的[願望清單頁面](https://www.bookwalker.com.tw/member/wishlist)。
+   <img width="960" alt="image" src="https://github.com/user-attachments/assets/7a6db534-c05e-490b-aa42-f973e978fe0f">
 2. 點擊擴充功能圖示，會彈出一個視窗顯示願望清單中的商品。
+   ![image](https://github.com/user-attachments/assets/529509e3-c7d9-4b76-a3ec-a571a6fcef46)
 3. 使用者可以在「按原始順序」與「按折扣排序」之間進行切換，來查看商品的折扣排序結果。
+   ![image](https://github.com/user-attachments/assets/72120a4c-e90a-41d7-ad4c-c5ba12ca2f44)
+
 
 ---
 
