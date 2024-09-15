@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 
-// 提取願望清單數據的函數（保持不變）
+// 提取願望清單數據的函數
 function extractWishlistResults() {
   const elements = document.querySelectorAll('#wishlist_product');
   const results = [];
@@ -80,7 +80,7 @@ function extractWishlistResults() {
 
       // 判斷商品名稱是否為 "AAA"，如果是，將原價替換為40元
       let originalPrice = null;
-      if (itemString.includes('我的口交同學')) {
+      if (itemString.includes('我的口交同學(')) { // 此商品無優惠時標示為原價160，特價40
         originalPrice = 40;  // 替換原價為40元
       } else {
         const priceMatch = text.match(/原價：\s*(\d+)\s*元/);
