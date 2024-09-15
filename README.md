@@ -33,7 +33,8 @@
 3. 使用者可以在「按原始順序」與「按折扣排序」之間進行切換，來查看商品的折扣排序結果。
    ![image](https://github.com/user-attachments/assets/72120a4c-e90a-41d7-ad4c-c5ba12ca2f44)
 
-
+### 關於聯絡
+可以新增Issue向我提出疑問或建議。
 ---
 
 ## English Description
@@ -49,3 +50,6 @@ This program is a Chrome extension designed for the wishlist page on [BookWalker
 1. After installing this Chrome extension, go to the wishlist page on [BookWalker TW](https://www.bookwalker.com.tw/).
 2. Click the extension icon to open a popup displaying the items in your wishlist.
 3. Users can switch between "Sort by Original Order" and "Sort by Discount" to view the items sorted accordingly.
+
+### Contact
+You can create an Issue to ask questions or make suggestions.
